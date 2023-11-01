@@ -15,7 +15,7 @@ def wordlist_gen(characters, min_length, max_length):
     return wordlist, total_combinations
 
 # Prompt user for input
-characters = input("Enter characters (comma-separated eg a,b,0,1): ").replace(" ", "")
+characters = input("Enter characters/words (comma-separated): ").replace(" ", "")
 min_length = int(input("Enter minimum word length: "))
 max_length = int(input("Enter maximum word length: "))
 
