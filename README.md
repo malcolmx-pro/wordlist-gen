@@ -2,7 +2,7 @@
 
 ### A Python tool to generate or build a wordlist of your choice.
 
-# Disclaimer
+## Disclaimer
 ```
 This program is for Educational purpose ONLY. Do not use it without permission.
 ```
